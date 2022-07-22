@@ -7,13 +7,9 @@ const chat = [
         lastTimeOnline: "была 5 минут назад",
         messages: [
             {
-                type: "i", //rm - right, lm - left, i - info
-                text: "Сегодня"
-            },
-            {
                 type: "rm", //rm - right, lm - left, i - info
-                text: `Здравствуйте Ирина.<br>В анкете № 23 у вас ошибка в вопросе 2.3. Посмотрите пожалуйста. Ссылка на анкету <a href="https://mnemohuman.ru/forms/?id=84499" target="_blank" rel="no-opener no-referer">https://mnemohuman.ru/forms/?id=84499</a>`,
-                date: "18:06",
+                text: "Спасибо!",
+                date: "18:16",
                 isReaded: true
             },
             {
@@ -24,9 +20,13 @@ const chat = [
             },
             {
                 type: "rm", //rm - right, lm - left, i - info
-                text: "Спасибо!",
-                date: "18:16",
+                text: `Здравствуйте Ирина.<br>В анкете № 23 у вас ошибка в вопросе 2.3.<br>Посмотрите пожалуйста. Ссылка на анкету<br><a href="https://mnemohuman.ru/forms/?id=84499" target="_blank" rel="no-opener no-referer">https://mnemohuman.ru/forms/?id=84499</a>`,
+                date: "18:06",
                 isReaded: true
+            },
+            {
+                type: "i", //rm - right, lm - left, i - info
+                text: "Сегодня"
             }
         ]
     },
@@ -38,13 +38,9 @@ const chat = [
         lastTimeOnline: "была 5 минут назад",
         messages: [
             {
-                type: "i", //rm - right, lm - left, i - info
-                text: "Сегодня"
-            },
-            {
                 type: "rm", //rm - right, lm - left, i - info
-                text: `Здравствуйте Ирина.<br>В анкете № 23 у вас ошибка в вопросе 2.3. Посмотрите пожалуйста. Ссылка на анкету <a href="https://mnemohuman.ru/forms/?id=84499" target="_blank" rel="no-opener no-referer">https://mnemohuman.ru/forms/?id=84499</a>`,
-                date: "18:06",
+                text: "Спасибо!",
+                date: "18:16",
                 isReaded: true
             },
             {
@@ -55,9 +51,13 @@ const chat = [
             },
             {
                 type: "rm", //rm - right, lm - left, i - info
-                text: "Спасибо!",
-                date: "18:16",
+                text: `Здравствуйте Ирина.<br>В анкете № 23 у вас ошибка в вопросе 2.3.<br>Посмотрите пожалуйста. Ссылка на анкету<br><a href="https://mnemohuman.ru/forms/?id=84499" target="_blank" rel="no-opener no-referer">https://mnemohuman.ru/forms/?id=84499</a>`,
+                date: "18:06",
                 isReaded: true
+            },
+            {
+                type: "i", //rm - right, lm - left, i - info
+                text: "Сегодня"
             }
         ]
     },
@@ -69,13 +69,9 @@ const chat = [
         lastTimeOnline: "была 5 минут назад",
         messages: [
             {
-                type: "i", //rm - right, lm - left, i - info
-                text: "Сегодня"
-            },
-            {
                 type: "rm", //rm - right, lm - left, i - info
-                text: `Здравствуйте Ирина.<br>В анкете № 23 у вас ошибка в вопросе 2.3. Посмотрите пожалуйста. Ссылка на анкету <a href="https://mnemohuman.ru/forms/?id=84499" target="_blank" rel="no-opener no-referer">https://mnemohuman.ru/forms/?id=84499</a>`,
-                date: "18:06",
+                text: "Спасибо!",
+                date: "18:16",
                 isReaded: true
             },
             {
@@ -86,9 +82,13 @@ const chat = [
             },
             {
                 type: "rm", //rm - right, lm - left, i - info
-                text: "Спасибо!",
-                date: "18:16",
+                text: `Здравствуйте Ирина.<br>В анкете № 23 у вас ошибка в вопросе 2.3.<br>Посмотрите пожалуйста. Ссылка на анкету<br><a href="https://mnemohuman.ru/forms/?id=84499" target="_blank" rel="no-opener no-referer">https://mnemohuman.ru/forms/?id=84499</a>`,
+                date: "18:06",
                 isReaded: true
+            },
+            {
+                type: "i", //rm - right, lm - left, i - info
+                text: "Сегодня"
             }
         ]
     },
@@ -100,13 +100,9 @@ const chat = [
         lastTimeOnline: "была 5 минут назад",
         messages: [
             {
-                type: "i", //rm - right, lm - left, i - info
-                text: "Сегодня"
-            },
-            {
                 type: "rm", //rm - right, lm - left, i - info
-                text: `Здравствуйте Ирина.<br>В анкете № 23 у вас ошибка в вопросе 2.3. Посмотрите пожалуйста. Ссылка на анкету <a href="https://mnemohuman.ru/forms/?id=84499" target="_blank" rel="no-opener no-referer">https://mnemohuman.ru/forms/?id=84499</a>`,
-                date: "18:06",
+                text: "Спасибо!",
+                date: "18:16",
                 isReaded: true
             },
             {
@@ -117,9 +113,13 @@ const chat = [
             },
             {
                 type: "rm", //rm - right, lm - left, i - info
-                text: "Спасибо!",
-                date: "18:16",
+                text: `Здравствуйте Ирина.<br>В анкете № 23 у вас ошибка в вопросе 2.3.<br>Посмотрите пожалуйста. Ссылка на анкету<br><a href="https://mnemohuman.ru/forms/?id=84499" target="_blank" rel="no-opener no-referer">https://mnemohuman.ru/forms/?id=84499</a>`,
+                date: "18:06",
                 isReaded: true
+            },
+            {
+                type: "i", //rm - right, lm - left, i - info
+                text: "Сегодня"
             }
         ]
     }

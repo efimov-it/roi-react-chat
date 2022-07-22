@@ -57,13 +57,17 @@
     }
 
     &viewMassages {
-        width: 100%;
-        min-height: calc(100% - 132px);
-        padding: 0px calc(50% - 345px);
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: flex-start;
+        // width: calc(100% - 30px);
+        height: calc(100% - 132px);
+        overflow-y: auto;
+        padding: 15px calc(50% - 360px);
     }
 
     &viewSendForm {
-        width: 100%;
+        width: calc(100% - 30px);
         max-width: 690px;
         height: 56px;
         margin: 0px auto;

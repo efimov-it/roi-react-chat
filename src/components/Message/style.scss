@@ -1,0 +1,61 @@
+@import '../../styles/main.scss';
+
+.chat- {
+    &message {
+        width: fit-content;
+        max-width: 70%;
+        min-width: 100px;
+        border-radius: 12px;
+        display: flex;
+        flex-direction: column;
+        padding: 4px 12px;
+        background: $white;
+        margin-left: 15px;
+        margin-bottom: 20px;
+
+        &__right {
+            background: $message-background;
+            margin-left: auto;
+            margin-right: 15px;
+
+            & .chat-messageTime {
+                color: $message-info;
+            }
+        }
+
+        &__info {
+            background: $mainBlue;
+            width: auto;
+            max-width: none;
+            display: inline-flex;
+            color: $white;
+            margin-left: auto;
+            margin-right: auto;
+            margin-bottom: 20px;
+        }
+
+
+        &_text {
+            font-size: 14px;
+            line-height: 20px;
+            word-break: break-word;
+
+            a {
+                color: $link;
+            }
+        }
+
+        &_info {
+            display: flex;
+            flex-direction: row;
+            justify-content: flex-end;
+            align-items: center;
+            margin-top: 4px;
+        }
+    }
+
+    &messageTime {
+        font-size: 12px;
+        line-height: 16px;
+    }
+}
